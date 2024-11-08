@@ -24,3 +24,7 @@ Analysis of whether news on the Internet is real or fake by using deep learning 
 - **Full Article Access Link**: [Analysis of whether news on the Internet is real or fake by using deep learning methods and the TF-IDF algorithm](https://dergipark.org.tr/en/pub/iarej/issue/60476/779019)
 
 Abstract
+
+Internet use has become increasingly widespread nowadays. In addition, there is a significant increase in the amount of text content produced in digital media. However, the accuracy and inaccuracy of the news we read and the content produced in a large number are also unknown. In this study, classification and analysis of whether the news is real or not were done by using Deep Learning methods. For the English news, the data set created by Katharine Jarmul was used. The data set contained a total of 6336 news items. The distribution of this data set, which consisted of political and political news, was 50% fake and 50% real. The method used in text classification was Term Frequency - Inverse Document Frequency (TF-IDF). The classification was made with the data set used and 93.88% success and 6.12% error were obtained as a result of the analysis.
+
+
