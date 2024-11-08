@@ -29,3 +29,16 @@ Internet use has become increasingly widespread nowadays. In addition, there is 
 
 Keywords: Natural Language Processing, Text Analysis, Text Classification, TF-IDF Algorithms
 
+## How to Cite
+
+- **IEEE**: T. Korkmaz, A. Çetinkaya, H. Aydın, and M. A. Barışkan, “Analysis of whether news on the Internet is real or fake by using deep learning methods and the TF-IDF algorithm”, Int. Adv. Res. Eng. J., vol. 5, no. 1, pp. 31–41, 2021, doi: 10.35860/iarej.779019.
+
+- **APA**: Korkmaz, T., Çetinkaya, A., Aydın, H., Barışkan, M. A. (2021). Analysis of whether news on the Internet is real or fake by using deep learning methods and the TF-IDF algorithm. International Advanced Researches and Engineering Journal, 5(1), 31-41. https://doi.org/10.35860/iarej.779019	
+
+- **MLA**: Korkmaz, Tilbe et al. “Analysis of Whether News on the Internet Is Real or Fake by Using Deep Learning Methods and the TF-IDF Algorithm”. International Advanced Researches and Engineering Journal, vol. 5, no. 1, 2021, pp. 31-41, doi:10.35860/iarej.779019.	
+
+## License
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI. Open Access Journal System - BOAI
+
+---
